@@ -1,10 +1,8 @@
 # Ignored Directories
-data/
 .ipynb_checkpoints/
 
 # Ignored File Types
 *.pdf
-*.csv
 *.xlsx
 *.pkl
 *.json
